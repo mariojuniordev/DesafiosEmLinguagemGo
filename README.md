@@ -1,2 +1,2 @@
 # DesafiosEmLinguagemGo
-Este repositório é destinado a desafios de código em linguagem Go.
+Este repositório é destinado a desafios de código em linguagem Go (Linguagem da Google).
